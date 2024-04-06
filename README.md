@@ -13,11 +13,11 @@ Advanced NLP Techniques: Implements LSTM architecture to achieve precise predict
 Easy Integration: Well-documented codebase facilitates straightforward integration into existing applications.
 Usage 
 
-Clone the repository.
+● Clone the repository.
 
-Install required dependencies: pip install.
+● Install required dependencies: pip install.
 
-Run the main script: python NextWordPrediction.py.
+● Run the main script: python NextWordPrediction.py.
 
 New Text can be added 
 
